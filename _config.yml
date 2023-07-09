@@ -16,7 +16,7 @@
 title: Jian's
 description: 기록하는 개발 일기
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jiankim86.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiankim86.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 timezone: Asia/Seoul
 permalink: pretty
